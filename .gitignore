@@ -101,4 +101,4 @@ dist
 
 # Extracted keycloak themes
 themes/keycloak-provided-themes
-themes/tailwind-example/resources/css/styles.css
+themes/befritco/resources/css/styles.css

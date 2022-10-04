@@ -1,0 +1,15 @@
+.login-pf body {
+    background: url("../img/background.jpg") no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+}
+
+div.kc-logo-text {
+    background-image: url("../img/logo_only.svg");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    height: 63px;
+    width: 300px;
+    background-size: contain;
+    margin: 0 auto;
+}
