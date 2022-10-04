@@ -19,7 +19,7 @@ for component in $(ls themes/befritco); do
     {
         \"themes\": [{
             \"name\": \"befritco\",
-            \"types\": [\"login\", \"account\", \"email\"]
+            \"types\": [\"login\", \"account\", \"admin\"]
         }]
     }
     """ >build/META-INF/keycloak-themes.json
