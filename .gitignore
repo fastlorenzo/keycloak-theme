@@ -102,3 +102,6 @@ dist
 # Extracted keycloak themes
 themes/keycloak-provided-themes
 themes/befritco/resources/css/styles.css
+
+# Build folder
+build/
