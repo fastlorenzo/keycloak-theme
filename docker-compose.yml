@@ -14,7 +14,7 @@ services:
       POSTGRES_USER: keycloak
       POSTGRES_PASSWORD: password
   keycloak:
-    image: docker.io/bitnami/keycloak:22
+    image: docker.io/bitnami/keycloak:25
     volumes:
       - ./disable-theme-cache.cli:/docker-entrypoint-initdb.d/disable-theme-cache.cli
       - ./themes/befritco/:/opt/bitnami/keycloak/themes/befritco/
